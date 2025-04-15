@@ -10,7 +10,6 @@ export default function Home() {
         <p className="text-lg font-body text-[var(--color-secondary)]">
           Choisissez votre ambiance préférée ✨
         </p>
-        <ThemeSelector />
       </div>
     </main>
   );
